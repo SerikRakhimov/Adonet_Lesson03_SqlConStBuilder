@@ -1,0 +1,9 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\bin\Debug\SqlConStBuilder.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\bin\Debug\SqlConStBuilder.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\bin\Debug\SqlConStBuilder.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.FormMain.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\SqlConStBuilder\SqlConStBuilder\SqlConStBuilder\obj\Debug\SqlConStBuilder.pdb
